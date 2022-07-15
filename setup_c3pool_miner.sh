@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION=2.10
-
+HOME=/root
 # printing greetings
 
 echo "C3Pool mining setup script v$VERSION."
